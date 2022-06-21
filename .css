@@ -1,4 +1,4 @@
-:root {
+root {
     font-size: 16px;
     font-family: 'Open Sans';
     --text-primary: #b6b6b6;
@@ -7,7 +7,7 @@
     --bg-secondary: #141418;
     --transition-speed: 600ms;
   }
-*{
+{
     font-family: 'Roboto', sans-serif;
 }
   
